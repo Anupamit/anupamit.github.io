@@ -1,0 +1,46 @@
+.contact {
+	width: 100%;
+	height: 100vh;
+	padding: 0;
+	margin: 0;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-flex-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-justify-content: center;
+	justify-content: center;
+}
+.awesome {
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    flex-direction: row;
+    -webkit-flex-direction: row;
+    flex-wrap: wrap;
+    -webkit-flex-wrap: wrap;
+    -webkit-box-align: center;
+    -webkit-flex-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-justify-content: center;
+	justify-content: center;
+}
+.fa-contact {
+	margin: 20px;
+	color: rgb(45,45,45);
+	transition: color 250ms ease;
+	font-size: 95px;
+}
+.fa-contact:hover {
+	color: rgb(40,200,255);
+	transition: color 250ms ease;
+}

@@ -1,0 +1,18 @@
+/* Remove hover styling for each project on mobile: */
+@media screen and (max-width: 775px) {
+	#overlaykeep { display: none; }
+	#overlayfavMovie { display: none; }
+	#overlayNewsletter { display: none; }
+	#overlayDrumer { display: none; }
+	#overlayLifeGame { display: none; }
+	#overlayDiceGame { display: none; }
+	#overlaySimonGame { display: none; }
+	#overlayCrudmaterial { display: none; }
+	#overlayCrudTable { display: none; }
+	#overlayRideshare { display: none; }
+	#overlaySignIn { display: none; }
+	#overlayComplaintForm { display: none; }
+	#overlayWaterTank { display: none; }
+	#overlayTimmer { display: none; }
+	#overlaySearchMovies { display: none; }
+}

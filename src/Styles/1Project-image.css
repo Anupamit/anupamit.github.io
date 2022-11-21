@@ -1,0 +1,61 @@
+/* Add project images for each flexbox div */
+#keep {
+	background: url('https://res.cloudinary.com/anupamit-wtf/image/upload/v1664522584/Anupamit/keep_hmt0vj.png');
+	background-size: cover;
+}
+#favMovie {
+	background: url('https://res.cloudinary.com/anupamit-wtf/image/upload/v1664522584/Anupamit/favmovie_ds2r5p.png');
+	background-size: cover;
+}
+#Newsletter {
+	background: url('https://res.cloudinary.com/anupamit-wtf/image/upload/v1664522582/Anupamit/signupletter_from_2022-09-30_11-52-17_dqzh6g.png');
+	background-size: cover;
+}
+#Drumer {
+	background: url('https://res.cloudinary.com/anupamit-wtf/image/upload/v1664522584/Anupamit/drummer_qwmjlc.png');
+	background-size: cover;
+}
+#LifeGame {
+	background: url('https://res.cloudinary.com/anupamit-wtf/image/upload/v1664522583/Anupamit/lifegame_kblk2z.png');
+	background-size: cover;
+}
+#DiceGame {
+	background: url('https://res.cloudinary.com/anupamit-wtf/image/upload/v1664522584/Anupamit/dicegame_ypcaiq.png');
+	background-size: cover;
+}
+#SimonGame {
+	background: url('https://res.cloudinary.com/anupamit-wtf/image/upload/v1664522582/Anupamit/simongame_r3amnu.png');
+	background-size: cover;
+}
+#Crudmaterial {
+	background: url('https://res.cloudinary.com/anupamit-wtf/image/upload/v1664522584/Anupamit/crudreact_m1cj2u.png');
+	background-size: cover;
+}
+#CrudTable {
+	background: url('https://res.cloudinary.com/anupamit-wtf/image/upload/v1664522584/Anupamit/crudjs_faaphj.png');
+	background-size: cover;
+}
+#Rideshare {
+	background: url('https://res.cloudinary.com/anupamit-wtf/image/upload/v1664522582/Anupamit/rideshare_mken8y.png');
+	background-size: cover;
+}
+#SignIn {
+	background: url('https://res.cloudinary.com/anupamit-wtf/image/upload/v1664522582/Anupamit/signup_laawzh.png');
+	background-size: cover;
+}
+#ComplaintForm {
+	background: url('https://res.cloudinary.com/anupamit-wtf/image/upload/v1664522584/Anupamit/complaint_wyw397.png');
+	background-size: cover;
+}
+#WaterTank {
+	background: url('https://res.cloudinary.com/anupamit-wtf/image/upload/v1664522582/Anupamit/Watertank_df9vvy.png');
+	background-size: cover;
+}
+#Timmer {
+	background: url('https://res.cloudinary.com/anupamit-wtf/image/upload/v1664522585/Anupamit/Basic_timer_jq5uub.png');
+	background-size: cover;
+}
+#SearchMovies {
+	background: url('https://res.cloudinary.com/anupamit-wtf/image/upload/v1664522584/Anupamit/Searchmovies_lsb0b9.png');
+	background-size: cover;
+}

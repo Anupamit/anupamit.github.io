@@ -1,0 +1,61 @@
+/* Add base opacity for each project */
+#overlaykeep {
+	opacity:0;
+	transition: opacity 1250ms ease;
+}
+#overlayfavMovie {
+	opacity:0;
+	transition: opacity 1250ms ease;
+}
+#overlayNewsletter {
+	opacity:0;
+	transition: opacity 1250ms ease;
+}
+#overlayDrumer {
+	opacity:0;
+	transition: opacity 1250ms ease;
+}
+#overlayLifeGame {
+	opacity:0;
+	transition: opacity 1250ms ease;
+}
+#overlayDiceGame {
+	opacity:0;
+	transition: opacity 1250ms ease;
+}
+#overlaySimonGame {
+	opacity:0;
+	transition: opacity 1250ms ease;
+}
+#overlayCrudmaterial {
+	opacity:0;
+	transition: opacity 1250ms ease;
+}
+#overlayCrudTable {
+	opacity:0;
+	transition: opacity 1250ms ease;
+}
+#overlayRideshare {
+	opacity:0;
+	transition: opacity 1250ms ease;
+}
+#overlaySignIn {
+	opacity:0;
+	transition: opacity 1250ms ease;
+}
+#overlayComplaintForm {
+	opacity:0;
+	transition: opacity 1250ms ease;
+}
+#overlayWaterTank {
+	opacity:0;
+	transition: opacity 1250ms ease;
+}
+#overlayTimmer {
+	opacity:0;
+	transition: opacity 1250ms ease;
+}
+#overlaySearchMovies {
+	opacity:0;
+	transition: opacity 1250ms ease;
+}

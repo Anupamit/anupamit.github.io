@@ -1,0 +1,49 @@
+/* Add hover stlying for each project */
+#keep:hover #overlaykeep {
+	opacity:1;
+	transition: opacity 1500ms ease;
+}
+#favMovie:hover #overlayfavMovie {
+	opacity:1;
+	transition: opacity 1500ms ease;
+}
+#Newsletter:hover #overlayNewsletter {
+	opacity:1;
+	transition: opacity 1500ms ease;
+}#Drumer:hover #overlayDrumer {
+	opacity:1;
+	transition: opacity 1500ms ease;
+}#LifeGame:hover #overlayLifeGame {
+	opacity:1;
+	transition: opacity 1500ms ease;
+}#DiceGame:hover #overlayDiceGame {
+	opacity:1;
+	transition: opacity 1500ms ease;
+}#SimonGame:hover #overlaySimonGame {
+	opacity:1;
+	transition: opacity 1500ms ease;
+}#Crudmaterial:hover #overlayCrudmaterial {
+	opacity:1;
+	transition: opacity 1500ms ease;
+}#CrudTable:hover #overlayCrudTable {
+	opacity:1;
+	transition: opacity 1500ms ease;
+}#Rideshare:hover #overlayRideshare {
+	opacity:1;
+	transition: opacity 1500ms ease;
+}#SignIn:hover #overlaySignIn {
+	opacity:1;
+	transition: opacity 1500ms ease;
+}#ComplaintForm:hover #overlayComplaintForm {
+	opacity:1;
+	transition: opacity 1500ms ease;
+}#WaterTank:hover #overlayWaterTank {
+	opacity:1;
+	transition: opacity 1500ms ease;
+}#Timmer:hover #overlayTimmer {
+	opacity:1;
+	transition: opacity 1500ms ease;
+}#SearchMovies:hover #overlaySearchMovies {
+	opacity:1;
+	transition: opacity 1500ms ease;
+}
