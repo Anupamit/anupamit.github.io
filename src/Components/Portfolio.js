@@ -1,13 +1,11 @@
 import React from 'react'
 import '../Styles/Portfolio.css'
-import Navigation from './Navigation'
 import Data from './Data'
 
 
 function Portfolio() {
     return (
         <div>
-        <Navigation/>
             <div className='sortContainer' id='projectsNav'>
                 <h1 className='portfolioTitle'>Portfolio</h1>
                 <select>
@@ -21,16 +19,13 @@ function Portfolio() {
             </div>
             <div className="container">
                 <div className="projectAnimationWrapper">
-                {Data.map((project, idx) => {
+                {Data.map((project, id) => {
                         return (
-                            <div
-                            id={project.ID}
-                            key={project.ID}
-                            className="imageBox"
+                            <div id={project.ID} key={project.ID} className="imageBox" 
                             onClick={() => window.open(project.src)}>
-                            <div className="overlay" id={`overlay${project.ID}`}>
-                                <span className="text">{project.title}</span>
-                            </div>
+                                <div className="overlay" id={`overlay${project.ID}`}>
+                                    <span className="text">{project.title}</span>
+                                </div>
                             </div>
                         );
                     })}
